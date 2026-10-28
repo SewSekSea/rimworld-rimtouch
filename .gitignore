@@ -1,0 +1,11 @@
+**/bin/
+**/obj/
+.build/
+**/Assemblies/*.dll
+**/Assemblies/*.pdb
+*.user
+*.suo
+.vs/
+.env*
+*.rws
+*.zip

@@ -1,0 +1,154 @@
+{
+  "name": "RimTouch – Windows 1.7 continuation",
+  "packageId": "cinder.rimtouch17.private",
+  "repository": "rimworld-rimtouch",
+  "license": "GPL-3.0-or-later",
+  "sourceUnit": "Development/RimTouch/Build/PackageCandidates/RimTouch-Windows17-Candidate-c7bfa3ad",
+  "productionSource": "Development/RimTouch/Source",
+  "sourceFilesUnmodified": true,
+  "recordedUtc": "2026-10-28T21:32:41.361Z",
+  "files": [
+    {
+      "path": "About/About.xml",
+      "bytes": 812,
+      "sha256": "E587236829346F555BE66E40D6E50D981F517F33FF6B17BBEAC85AE0A00905BA",
+      "origin": "Development/RimTouch/Build/PackageCandidates/RimTouch-Windows17-Candidate-c7bfa3ad/About/About.xml"
+    },
+    {
+      "path": "About/Preview.png",
+      "bytes": 833196,
+      "sha256": "D8D7A980C0CED4EE374318E23A49C5FC8049F7D7E6E2FAE11F271A00CD0F061C",
+      "origin": "Development/RimTouch/Build/PackageCandidates/RimTouch-Windows17-Candidate-c7bfa3ad/About/Preview.png"
+    },
+    {
+      "path": "Source/Input/ContactFrameBuffer.cs",
+      "bytes": 5406,
+      "sha256": "09062D15DE02BA85D5FE13AF45A7D6F868D5181AEF6C12115D4DB4E1210AF1EE",
+      "origin": "Development/RimTouch/Source/Input/ContactFrameBuffer.cs"
+    },
+    {
+      "path": "Source/Input/TouchInputProof.cs",
+      "bytes": 3209,
+      "sha256": "2C2C362266FED189957F2F06E2C747C4858B27F01029B673F6DA9BACFFC56135",
+      "origin": "Development/RimTouch/Source/Input/TouchInputProof.cs"
+    },
+    {
+      "path": "Source/Input/TouchSource.cs",
+      "bytes": 4472,
+      "sha256": "4E728E2BE4B3E17322F3520607079884043ED195601B7BC04833030228FA56CF",
+      "origin": "Development/RimTouch/Source/Input/TouchSource.cs"
+    },
+    {
+      "path": "Source/Input/TwistGesture.cs",
+      "bytes": 1513,
+      "sha256": "21D0CB95AD5BDDA3059D722DDBD670B8CC084916D02BC5B0A72F1276271531BF",
+      "origin": "Development/RimTouch/Source/Input/TwistGesture.cs"
+    },
+    {
+      "path": "Source/Input/WindowsTouchBackend.cs",
+      "bytes": 14818,
+      "sha256": "FB8F9F77D0144E3E917B1304BAE6F2D99B1024C01FFFFBD69411F703DFC205F1",
+      "origin": "Development/RimTouch/Source/Input/WindowsTouchBackend.cs"
+    },
+    {
+      "path": "Source/Input/ZoomRangeLease.cs",
+      "bytes": 1140,
+      "sha256": "60A842729D2901299C568B1B77BF0EB5B059DA3866DDC155CC565E0A339EC3C0",
+      "origin": "Development/RimTouch/Source/Input/ZoomRangeLease.cs"
+    },
+    {
+      "path": "Source/LocalMapTouchCamera.cs",
+      "bytes": 4847,
+      "sha256": "910F2E70CE743AAA83255EEAF3E80D0D3E1BC8734E8F08A821EEAEC041DE892D",
+      "origin": "Development/RimTouch/Source/LocalMapTouchCamera.cs"
+    },
+    {
+      "path": "Source/ReflectionGuard.cs",
+      "bytes": 7099,
+      "sha256": "93CC8B080A6BDE1C20A829B56BFD2CFE772C2ED8417A7033EF6E7BB38DB70628",
+      "origin": "Development/RimTouch/Source/ReflectionGuard.cs"
+    },
+    {
+      "path": "Source/RimTouch.csproj",
+      "bytes": 211,
+      "sha256": "D4D3FFE60F185C87B9BE2A28512E7B20F3FDEC0ACE9E95C730B9D82538DB8C5B",
+      "origin": "Development/RimTouch/Source/RimTouch.csproj"
+    },
+    {
+      "path": "Source/RimTouchBootstrap.cs",
+      "bytes": 12565,
+      "sha256": "680BB47D2DFE354586394038B2CD70DE681C05B981629565AFE724451A6D4641",
+      "origin": "Development/RimTouch/Source/RimTouchBootstrap.cs"
+    },
+    {
+      "path": "Source/RimTouchMod.cs",
+      "bytes": 9509,
+      "sha256": "C35EAF432C3CADEA3DAF842DF1857B76FD20A2FA3E2296FFD01A70F5B6DC0FB5",
+      "origin": "Development/RimTouch/Source/RimTouchMod.cs"
+    },
+    {
+      "path": "Source/TouchInertia.cs",
+      "bytes": 18924,
+      "sha256": "7941C98213E3BB9C4AD03B6CF8853E41D38E4DD3394BA4ACE3E51C1725260EF1",
+      "origin": "Development/RimTouch/Source/TouchInertia.cs"
+    },
+    {
+      "path": "Source/TouchInputDriver.cs",
+      "bytes": 56293,
+      "sha256": "EBAC0C9061C14E71BC86F4839C978341E1BF7BA729F923D52DE2AD5681A1624C",
+      "origin": "Development/RimTouch/Source/TouchInputDriver.cs"
+    },
+    {
+      "path": "Source/TouchInputDriver.UiScroll.cs",
+      "bytes": 11264,
+      "sha256": "3639361154F3715D03FC162757BD524D1A24FD1F6D30B3CCF739A33E7E59432C",
+      "origin": "Development/RimTouch/Source/TouchInputDriver.UiScroll.cs"
+    },
+    {
+      "path": "Source/TouchMode.cs",
+      "bytes": 189,
+      "sha256": "54A66B610BAEA0256DFB6E917A416A9CA9B57CF7ABBB3423129FDDFA65A27881",
+      "origin": "Development/RimTouch/Source/TouchMode.cs"
+    },
+    {
+      "path": "Source/TouchTapRepair.cs",
+      "bytes": 5345,
+      "sha256": "D32BC72BA23496D0943702670C2DCAF082C1E61EEE7D68B015B6712AF282EB94",
+      "origin": "Development/RimTouch/Source/TouchTapRepair.cs"
+    },
+    {
+      "path": "Source/UiHitTester.cs",
+      "bytes": 9003,
+      "sha256": "1129B9C7D0FB9EC236226A486A30567A73073C71B06EBE2F6D45A5A372DEABB3",
+      "origin": "Development/RimTouch/Source/UiHitTester.cs"
+    },
+    {
+      "path": "Source/WorldMapTouchCamera.cs",
+      "bytes": 20995,
+      "sha256": "9FA2D1A52959FDB3268E1472AEAA46CC8C67CFDF650EB023400DE587FBE6B0F7",
+      "origin": "Development/RimTouch/Source/WorldMapTouchCamera.cs"
+    },
+    {
+      "path": "About/PublishedFileId.txt",
+      "bytes": 10,
+      "sha256": "15A14B35F8C844F45667CB512A657DCF1A8A2D4A3E5E679C039AA83A9C00A0B9",
+      "origin": "installed metadata"
+    }
+  ],
+  "installedBinaryFingerprints": [
+    {
+      "path": "Assemblies/RimTouch.dll",
+      "sha256": "D24BB96694574E0F4869C55113160943850D0B6D18A7C7874DA29C7C521B7F96"
+    }
+  ],
+  "build17": {
+    "status": "COMPILED",
+    "sourceFiles": 17,
+    "gameVersion": "1.7.4990 rev1069",
+    "productSHA256": "226EB965B2843842CB9190D211F3D8E851B55265D0A31ADC887E8E482307C96F",
+    "diagnosticCount": 0
+  },
+  "nativePlaytest": "NOT_RUN_THIS_PASS",
+  "artworkOmitted": false,
+  "installedSourceCorrespondence": "17/17 source files text-identical to the installed corresponding-source archive after CRLF normalization; seven raw byte hashes differ only in line endings"
+}
